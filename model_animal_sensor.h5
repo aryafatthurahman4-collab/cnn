@@ -1,0 +1,2 @@
+Trained PyTorch Model Weights: model_animal_sensor.pth
+Classes: ['Kucing', 'Kelinci', 'Burung']

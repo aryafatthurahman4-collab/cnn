@@ -1,0 +1,16 @@
+metadata:
+  author: Muhammad Arya Fatthurahman
+  github: https://github.com/ultralytics/ultralytics
+  hub_url: https://platform.ultralytics.com/explore
+  license: AGPL-3.0
+  task: detect
+names:
+  0: Kucing
+  1: Burung
+  2: Kelinci
+  3: Ayam
+nc: 4
+path: D:\laragon\www\Convutional Neural Networks\dataset_hewan
+test: images/test
+train: images/train
+val: images/val
