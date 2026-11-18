@@ -131,3 +131,11 @@ python eval_benchmark.py
 1. **End-to-End Pipeline Loop**: Menggabungkan sensor video capture, pra-segmentasi visual, klasifikasi deep learning, dan logging database relasional dalam satu kesatuan sistem real-time.
 2. **K-Means $L^*a^*b^*$ Invariance (JSIT 2025)**: Mencegah penurunan akurasi akibat perubahan intensitas cahaya matahari dan bayangan pepohonan di luar ruangan.
 3. **Edge Processing Real-Time (JOSH 2025, JIEET 2024)**: Latensi rerata 24.6 ms membuktikan bahwa arsitektur MobileNetV3-Large sanggup bekerja mulus di atas 40 FPS tanpa memerlukan GPU server mahal.
+
+---
+
+## Project Governance
+
+[![CI](https://github.com/aryafatthurahman4-collab/cnn/actions/workflows/ci.yml/badge.svg)](https://github.com/aryafatthurahman4-collab/cnn/actions/workflows/ci.yml)
+
+[Contributing](CONTRIBUTING.md) | [Security Policy](SECURITY.md) | [Code of Conduct](CODE_OF_CONDUCT.md)
